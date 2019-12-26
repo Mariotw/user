@@ -1,0 +1,27 @@
+{
+  "user1": {
+    "nama": "Yudi Setiawan",
+    "usia": 23,
+    "email": "kolonel.yudisetiawan@gmail.com"
+  },
+  "user2": {
+    "nama": "Angela",
+    "usia": 24,
+    "email": "angela@gmail.com"
+  },
+  "user3": {
+    "nama": "Ariani",
+    "usia": 26,
+    "email": "ariani@gmail.com"
+  },
+  "user4": {
+    "nama": "Surya Sempurna",
+    "usia": 32,
+    "email": "suryasempurna@gmail.com"
+  },
+  "user5": {
+    "nama": "Paijon",
+    "usia": 25,
+    "email": "paijon@gmail.com"
+  }
+}
